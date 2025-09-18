@@ -1,10 +1,6 @@
-streamlt
-pillow
-python-docx
-pytesseract
 google.generativeai
+streamlit
+opencv-python-headless
+Pillow
+python-docx
 pypdf
-docx
-os
-
-opencv-python
