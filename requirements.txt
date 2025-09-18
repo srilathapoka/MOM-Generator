@@ -1,0 +1,10 @@
+streamlt
+pillow
+python-docx
+pytesseract
+google.generativeai
+pypdf
+docx
+os
+
+opencv-python
